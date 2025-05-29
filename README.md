@@ -53,7 +53,7 @@
 </h1>
 
 <h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/aknowledgment.png" />
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/aknowledgments.png" />
   Aknowledgment
 </h1>
 - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
@@ -66,7 +66,7 @@
 </h1>
 
 <h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/imageslicense.png" />
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/license.png" />
   License
 </h1>
 [MIT](https://choosealicense.com/licenses/mit/)
