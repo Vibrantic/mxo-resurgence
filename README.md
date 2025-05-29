@@ -152,7 +152,7 @@
   Support
 </h2>
 <p>
-  For support, email help@mxo-resurgence.com or join our Discord channel.
+  For support, email help@mxo-resurgence.com or join our <a href="https://discord.gg/FyRmp7Bb">Discord</a> channel.
 </p>
 
 <h2>
