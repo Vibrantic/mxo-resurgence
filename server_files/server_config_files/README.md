@@ -1,0 +1,1 @@
+Copy the files inside the bin/debug or bin/release depending on how youve executed the your .sln
