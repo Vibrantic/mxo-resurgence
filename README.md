@@ -2,89 +2,85 @@
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/resurgence_banner.png" />
 </p>
 
-<h1 style="font-size:10vw">
+<h1 style="font-size:10vw" align="center">
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/red_pill.png" />
   WELCOME TO THE WONDERLAND!
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/blue_pill.png" />
 </h1>
 
-<h1 style="font-size:10vw" align="center">
+<h1 style="font-size:10vw">
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/about.png" />
   About Resurgence
 </h1>
 
-## :information_source: About Resurgence
 
-## :arrow_down: Installation
-Install my-project with npm
-```bash
-  npm install my-project
-  cd my-project
-```
+<h1 style="font-size:10vw">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/install.png" />
+  Installation
+</h1>
 
-## :arrow_forward: Run Locally
-Clone the project
-```bash
-  git clone https://link-to-project
-```
-Go to the project directory
-```bash
-  cd my-project
-```
-Install dependencies
-```bash
-  npm install
-```
-Start the server
-```bash
-  npm run start
-```
+<h1 style="font-size:10vw">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/run_locally.png" />
+  Run Locally
+</h1>
 
-## :name_badge: Badges
-Add badges from somewhere like: [shields.io](https://shields.io/)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+<h1 style="font-size:10vw">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/features.png" />
+  Features
+</h1>
 
-## :100: Features
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+<h1 style="font-size:10vw">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/roadmap.png" />
+  Roadmap
+</h1>
 
-## :triangular_flag_on_post: Roadmap
-- Additional browser support
-- Add more integrations
+<h1 style="font-size:10vw">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/contributing.png" />
+  Contributing
+</h1>
+  See `contributing.md` for ways to get started.
+  Please adhere to this project's `code of conduct`.
+  Contributions are always welcome!
 
-## :muscle: Contributing
-Contributions are always welcome!
-See `contributing.md` for ways to get started.
-Please adhere to this project's `code of conduct`.
+<h1 style="font-size:10vw">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/documentation.png" />
+  Documentation
+</h1>
 
-## :green_book: Documentation
-[Documentation](https://linktodocumentation)
+<h1 style="font-size:10vw">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/faq.png" />
+  Frequently asked questions
+</h1>
 
-## :interrobang: FAQ
-#### Question 1
-Answer 1
-#### Question 2
-Answer 2
-
-## :gift_heart: Acknowledgements
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+<h1 style="font-size:10vw">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/aknowledgment.png" />
+  Aknowledgment
+</h1>
+- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ 
+<h1 style="font-size:10vw">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/authors.png" />
+ - [@Vibrantic](https://www.github.com/vibrantic)
+</h1>
 
-## :pencil: Authors
-- [@Vibrantic](https://www.github.com/vibrantic)
-
-## :warning: License
+<h1 style="font-size:10vw">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/imageslicense.png" />
+  License
+</h1>
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## :raised_hand: Support
+<h1 style="font-size:10vw">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/support.png" />
+  Support
+</h1>
 For support, email fake@fake.com or join our Slack channel.
 
-## :open_hands: Feedback
+<h1 style="font-size:10vw">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/feedback.png" />
+  Feedback
+</h1>
 If you have any feedback, please reach out to us at fake@fake.com
 
 
