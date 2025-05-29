@@ -2,60 +2,59 @@
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/resurgence_banner.png" />
 </p>
 
-<h1 style="font-size:10vw" align="center">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/red_pill.png" />
+<h1 align="center">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/red_pill.png" width="25" height="25" />
   WELCOME TO THE WONDERLAND!
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/blue_pill.png" />
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/blue_pill.png" width="25" height="25" />
 </h1>
 
-<h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/about.png" />
+<h2>
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/about.png" width="40" height="40" />
   About Resurgence
-</h1>
+</h2>
 
-
-<h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/install.png" />
+<h2>
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/install.png" width="40" height="40"/>
   Installation
-</h1>
+</h2>
 
-<h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/run_locally.png" />
+<h2>
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/run_locally.png" width="40" height="40"/>
   Run Locally
-</h1>
+</h2>
 
-<h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/features.png" />
+<h2>
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/features.png" width="40" height="40"/>
   Features
-</h1>
+</h2>
 
-<h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/roadmap.png" />
+<h2>
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/roadmap.png" width="40" height="40"/>
   Roadmap
-</h1>
+</h2>
 
-<h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/contributing.png" />
+<h2>
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/contributing.png" width="40" height="40"/>
   Contributing
-</h1>
+</h2>
   See `contributing.md` for ways to get started.
   Please adhere to this project's `code of conduct`.
   Contributions are always welcome!
 
-<h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/documentation.png" />
+<h2>
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/documentation.png" width="40" height="40"/>
   Documentation
-</h1>
+</h2>
 
-<h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/faq.png" />
+<h2>
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/faq.png" width="40" height="40"/>
   Frequently asked questions
-</h1>
+</h2>
 
-<h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/aknowledgments.png" />
+<h2>
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/aknowledgments.png" width="40" height="40"/>
   Aknowledgments
-</h1>
+</h2>
 <p>
   - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 </p>
@@ -66,25 +65,37 @@
   - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 </p> 
  
-<h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/authors.png" />
- - [@Vibrantic](https://www.github.com/vibrantic)
-</h1>
+<h2>
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/authors.png" width="40" height="40"/>
+  Authors
+</h2>
+<p>
+  - [@Vibrantic](https://www.github.com/vibrantic)
+</p>
 
-<h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/license.png" />
+<h2>
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/license.png" width="40" height="40"/>
   License
-</h1>
-[MIT](https://choosealicense.com/licenses/mit/)
+</h2>
+<p>
+  - [MIT](https://choosealicense.com/licenses/mit/)
+</p>
 
-<h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/support.png" />
+
+<h2>
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/support.png" width="40" height="40"/>
   Support
-</h1>
-For support, email fake@fake.com or join our Slack channel.
+</h2>
+<p>
+  For support, email help@mxo-resurgence.com or join our Discord channel.
+</p>
 
-<h1 style="font-size:10vw">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/feedback.png" />
+
+<h2>
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/feedback.png" width="40" height="40"/>
   Feedback
-</h1>
-If you have any feedback, please reach out to us at fake@fake.com
+</h2>
+<p>
+  If you have any feedback, please reach out to us at feedback@mxo-resurgence.com
+</p>
+
