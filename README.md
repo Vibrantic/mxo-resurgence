@@ -91,6 +91,62 @@
   </tr>
 </table>
 
+***
+
+<h3>Features that where already implemented by Hardline Dreams Team. Big thx to them ❤️</h3>
+
+```
+Partically working features:
+  •	Signposts
+  •	Hyperjump (works but crappy and not really high enough)
+  •	Multi Player support (it "should" work but wasnt tested enough so you should see each other and hopefully you can chat)
+  •	Mission System (still at the beginning)
+  •	Ability loadout change (still buggy if you unload/load more than one ability)
+  •	Ability Vendor at Mara C just for tests (but you can buy items)
+  •	Inventory System (you can wear items but stackable doesnt work currently)
+  •	Friendlist (could be buggy too - not tested)
+  •	Teleporting through hardlines (this should work nearly perfect)
+  •	Opening Doors (for this you need an extra file with the static objects -
+    so currently not working here and also not finished properly)
+  •	Mobs are working partically (they get spawned and auto-move a little bit but still some calculations are wrong -
+    you cannot fight them and they are not attacking you) EDIT: you can partically fight them
+    (attack them with Hacker Attacks for example but its still very buggy)
+  •	Vendors are implemented (but selling items doesnt work and buy items doesnt decrease amount of money :))
+    Also i parsed all possible vendors from logs but many vendors missing which need be filled later.
+    For Fun and that you didnt see a vendor window the first vendor from the CSV is the "default vendor".
+  •	WIP: Crew and Factions Functionality (you can create crews and join factions / create factions
+    but some parts are missing like updating all "online" playerviews)
+
+Server Features:
+  •	Entity and View System: Every View has an internal entityId so that we can just spawn view on static
+    and dynamic obbjects.
+  •	Network System: we have now message Queues for RPC and Object related Messages. And it will be resend until ack.
+  •	Encryption Library Changed (but not finally - we still use engimaLib): to move to .NET Framework 4.0 and
+    to compile for 64 Bit i created an encryption interface. So we use a C# Library and a C# implementation.
+    The Reason for this is that EngimaLib had to be recompiled for 64 Bit (as it is a C++ Library) but i am not sure
+    if the base libs are able to compile 64 Bit.
+  	As i dont know if this works well and how good the performance is i created a Encryption Interface and moved
+    the Engima Implemenation there. So if it doesnt work we could easily change back.
+
+Chat commands: There are some ingame commands we added that you can use in HardlineDreams.
+  •	?org Change the players aligment / organisation (possible values are 0 - 3)
+  •	?rep Set the reputation for an organisation.
+  •	Example: for zion ?rep zion 120
+  •	Example: for machine: ?rep machine 120
+  •	Example: for mero: ?rep mero 120
+  •	?spawngameobject Spawns a GameObject of Type GoId in your current position and rotation.
+    This can only work if this type of Go has values for Position and rotation (all other possible attributes are not set).
+    This works with reflections.
+  •	?gotopos X Y Z
+  •	?rsi : you can change rsi parts but be careful with it
+  •	?spawndatanode : This spawn a datanode
+  •	?moa Change the moa (only visible to yourself currently)
+  •	?playanim Play an animation.
+  •	?playmove Should play movement (again i am not sure if this works)
+  •	?mob This should spawn a testmob but this doesnt work currently
+There are some other commands implemented but they are not important.
+```
+
 <h2>
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/roadmap.png" width="40" height="40"/>
   Roadmap
