@@ -8,6 +8,25 @@
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/blue_pill.png" width="25" height="25" />
 </h1>
 
+<table align="center">
+  <tr>
+    <td><img alt="GitHub branch status" src="https://img.shields.io/github/checks-status/Vibrantic/mxo-resurgence/master"></td>
+    <td><img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Vibrantic/mxo-resurgence/total"></td>
+    <td><img alt="GitHub License" src="https://img.shields.io/github/license/Vibrantic/mxo-resurgence"></td>
+  </tr>
+  <tr>
+    <td><img alt="GitHub forks" src="https://img.shields.io/github/forks/Vibrantic/mxo-resurgence?style=plastic&logo=trailforks&logoColor=white&color=green"></td>
+    <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vibrantic/mxo-resurgence?style=plastic&logo=starship&logoColor=white&color=green"></td>
+    <td><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Vibrantic/mxo-resurgence?style=plastic&logo=amazoncloudwatch&logoColor=white&color=green"></td>
+  </tr>
+  <tr>
+    <td><img alt="Static Badge" src="https://img.shields.io/badge/server_version-alpha_0.1-green"></td>
+    <td><img alt="Static Badge" src="https://img.shields.io/badge/launcher_version-v7.5669-green"></td>
+    <td><img alt="Static Badge" src="https://img.shields.io/badge/client_version-v7.5668-green">
+</td>
+  </tr>
+</table>
+
 <h2>
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/about.png" width="40" height="40" />
   About Resurgence
@@ -55,15 +74,6 @@
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/aknowledgments.png" width="40" height="40"/>
   Aknowledgments
 </h2>
-<p>
-  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-</p>
-<p>
-  - [Awesome README](https://github.com/matiassingers/awesome-readme)
-</p> 
-<p>
-  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-</p> 
  
 <h2>
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/authors.png" width="40" height="40"/>
@@ -77,10 +87,6 @@
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/license.png" width="40" height="40"/>
   License
 </h2>
-<p>
-  - [MIT](https://choosealicense.com/licenses/mit/)
-</p>
-
 
 <h2>
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/support.png" width="40" height="40"/>
@@ -89,7 +95,6 @@
 <p>
   For support, email help@mxo-resurgence.com or join our Discord channel.
 </p>
-
 
 <h2>
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/feedback.png" width="40" height="40"/>
