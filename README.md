@@ -52,11 +52,17 @@
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/install.png" width="40" height="40"/>
   Installation
 </h2>
+<p>
+  COMING SOON!
+</p>
 
 <h2>
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/run_locally.png" width="40" height="40"/>
   Run Locally
 </h2>
+<p>
+  COMING SOON!
+</p>
 
 <h2>
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/features.png" width="40" height="40"/>
@@ -88,6 +94,11 @@
     <td>🛠️ Modular structure for emulator and server tools</td>
     <td>The project uses a modular structure, which means different parts of the emulator and server tools are separated into clean, manageable pieces.
       This makes it easier to update, improve, or replace individual components without breaking everything else.</td> 
+  </tr>
+    <tr>
+    <td>✅ A central place for the MxO community to collaborate and rebuild.</td>
+    <td>Many similar projects have scattered pieces created by different people, with no clear oversight of what's available or missing. 
+      This repository brings everything together — code, tools, and knowledge — to form a unified foundation for the revival of The Matrix Online.</td>
   </tr>
 </table>
 
