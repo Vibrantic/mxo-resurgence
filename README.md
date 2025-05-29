@@ -199,21 +199,22 @@ There are some other commands implemented but they are not important.
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/aknowledgments.png" width="40" height="40"/>
   Aknowledgments
 </h2>
+
 <table align="center">
   <tr>
-    <td>Rajkosto<br><a href="https://www.mxoemu.info">mxoemu.info</a></td>
+     <td>Rajkosto<br><a href="https://www.mxoemu.info">mxoemu.info</a></td>
     <td>Many base logic like the encryption, GoProps etc. are based from him.</td>
   </tr>
   <tr>
-    <td>Morpheus<br><a href="https://www.mxoemu.com">mxoemu.com</a></td>
+    <td>Morpheus<br><a href="http://mxo.hardlinedreams.com/">mxo.hardlinedreams.com</a></td>
     <td>Many researching stuff and "cortana".</td>
   </tr>
-   <tr>
+    <tr>
     <td>The Whole MxO Community</td>
     <td>Just for Motivation and support and sure for packet researching too.</td>
-  </tr>
+   </tr>
 </table>
- 
+
 <h2>
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/authors.png" width="40" height="40"/>
   Authors
@@ -243,6 +244,6 @@ There are some other commands implemented but they are not important.
   Feedback
 </h2>
 <p>
-  If you have any feedback, please reach out to us at <a href="feedback@mxo-resurgence.com">feedback@mxo-resurgence.com</a>
+  If you have any feedback, please reach out to us at <a href="feedback@mxo-resurgence.com">feedback@mxo-resurgence.com</a> or join our <a href="https://discord.gg/FyRmp7Bb">Discord</a> channel.
 </p>
 
