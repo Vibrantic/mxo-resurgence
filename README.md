@@ -170,19 +170,30 @@ There are some other commands implemented but they are not important.
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/contributing.png" width="40" height="40"/>
   Contributing
 </h2>
-  See <a href="https://github.com/Vibrantic/mxo-resurgence/blob/master/CONTRIBUTING.md">Contributing</a> for ways to get started.
-  Please follow <a href="https://github.com/Vibrantic/mxo-resurgence/blob/master/CODE_OF_CONDUCT.md.">code of conduct</a>.
-  Contributions are always welcome!
-
+<p align="center">
+   See <a href="https://github.com/Vibrantic/mxo-resurgence/blob/master/CONTRIBUTING.md">Contributing</a> for ways to get started,<br>
+  but please follow <a href="https://github.com/Vibrantic/mxo-resurgence/blob/master/CODE_OF_CONDUCT.md.">code of conduct</a>.
+  <br>
+  <br>
+    And remember...<br>
+    <b>contributions are always welcome!</b>
+</p>
+ 
 <h2>
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/documentation.png" width="40" height="40"/>
   Documentation
 </h2>
+<p>
+  COMING SOON!
+</p>
 
 <h2>
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/faq.png" width="40" height="40"/>
   Frequently asked questions
 </h2>
+<p>
+  COMING SOON!
+</p>
 
 <h2>
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/aknowledgments.png" width="40" height="40"/>
@@ -208,20 +219,23 @@ There are some other commands implemented but they are not important.
   Authors
 </h2>
 <p>
-  - [@Vibrantic](https://www.github.com/vibrantic)
+  <a href="https://www.github.com/Vibrantic">@Vibrantic</a>
 </p>
 
 <h2>
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/license.png" width="40" height="40"/>
   License
 </h2>
+<p>
+  COMING SOON!
+</p>
 
 <h2>
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/support.png" width="40" height="40"/>
   Support
 </h2>
 <p>
-  For support, email help@mxo-resurgence.com or join our <a href="https://discord.gg/FyRmp7Bb">Discord</a> channel.
+  For support send email at <a href="help@mxo-resurgence.com">help@mxo-resurgence.com</a> or join our <a href="https://discord.gg/FyRmp7Bb">Discord</a> channel.
 </p>
 
 <h2>
@@ -229,6 +243,6 @@ There are some other commands implemented but they are not important.
   Feedback
 </h2>
 <p>
-  If you have any feedback, please reach out to us at feedback@mxo-resurgence.com
+  If you have any feedback, please reach out to us at <a href="feedback@mxo-resurgence.com">feedback@mxo-resurgence.com</a>
 </p>
 
