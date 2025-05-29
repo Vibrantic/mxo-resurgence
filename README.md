@@ -159,8 +159,8 @@ There are some other commands implemented but they are not important.
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/contributing.png" width="40" height="40"/>
   Contributing
 </h2>
-  See `contributing.md` for ways to get started.
-  Please adhere to this project's `code of conduct`.
+  See <a href="https://github.com/Vibrantic/mxo-resurgence/blob/master/CONTRIBUTING.md">Contributing</a> for ways to get started.
+  Please follow <a href="https://github.com/Vibrantic/mxo-resurgence/blob/master/CODE_OF_CONDUCT.md.">code of conduct</a>.
   Contributions are always welcome!
 
 <h2>
@@ -179,11 +179,11 @@ There are some other commands implemented but they are not important.
 </h2>
 <table align="center">
   <tr>
-    <td>Rajkosto<br><a href="mxoemu.info">mxoemu.info</a></td>
+    <td>Rajkosto<br><a href="https://www.mxoemu.info">mxoemu.info</a></td>
     <td>Many base logic like the encryption, GoProps etc. are based from him.</td>
   </tr>
   <tr>
-    <td>Morpheus<br><a href="mxoemu.com">mxoemu.com</a></td>
+    <td>Morpheus<br><a href="https://www.mxoemu.com">mxoemu.com</a></td>
     <td>Many researching stuff and "cortana".</td>
   </tr>
    <tr>
