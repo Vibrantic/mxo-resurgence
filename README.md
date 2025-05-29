@@ -2,7 +2,16 @@
   <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/resurgence_banner.png" />
 </p>
 
-# :pill: Welcome to the wonderland!
+<h1 style="font-size:10vw">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/red_pill.png" />
+  WELCOME TO THE WONDERLAND!
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/blue_pill.png" />
+</h1>
+
+<h1 style="font-size:10vw" align="center">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/about.png" />
+  About Resurgence
+</h1>
 
 ## :information_source: About Resurgence
 
