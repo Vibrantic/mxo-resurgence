@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/images/resurgence_banner.png" />
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/github_files/images/resurgence_banner.png" />
 </p>
 
 # Welcome to the wonderland!
