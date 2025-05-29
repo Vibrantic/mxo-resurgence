@@ -35,7 +35,9 @@
   First of all – welcome!
   <br>
   <br>
-  This is a community-driven continuation of The Matrix Online (MxO) emulator, originally based on the Hardline Dreams project.<br>
+  This is a community-driven continuation of The Matrix Online (MxO) emulator, originally based on the Hardline Dreams project.
+  <br>
+  <br>
   Sadly, the Hardline Dreams team has not updated their codebase in over four years.
   <br>
   <br>
