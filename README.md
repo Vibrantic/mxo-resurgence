@@ -1,4 +1,6 @@
-![Logo](https://github.com/Vibrantic/mxo-resurgence/blob/master/Img/Resurgence_Banner.png)
+<p align="center">
+  <img src="https://github.com/Vibrantic/mxo-resurgence/blob/master/Img/Resurgence_Banner.png" />
+</p>
 
 # Welcome to the wonderland!
 
