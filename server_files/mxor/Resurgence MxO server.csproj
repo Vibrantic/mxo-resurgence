@@ -23,14 +23,24 @@
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <Nullable>disable</Nullable>
     <TargetFramework>net9.0</TargetFramework>
-    <Platforms>AnyCPU;x86</Platforms>
+    <Platforms>AnyCPU;x86;x64</Platforms>
+    <Configurations>Debug;Release;Debug x64</Configurations>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <OutputPath>bin\Debug</OutputPath>
     <PlatformTarget>AnyCPU</PlatformTarget>
     <Optimize>True</Optimize>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug x64|AnyCPU'">
+    <OutputPath>bin\Debug</OutputPath>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Optimize>True</Optimize>
+  </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x86'">
+    <OutputPath>bin\Debug</OutputPath>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug x64|x86'">
     <OutputPath>bin\Debug</OutputPath>
     <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
@@ -48,11 +58,18 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <Optimize>True</Optimize>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug x64|x86'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>True</Optimize>
+  </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
     <OutputPath>bin\x86\Release\</OutputPath>
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
+    <OutputPath>bin\x64\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug x64|x64'">
     <OutputPath>bin\x64\Debug\</OutputPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x64' ">
@@ -72,13 +89,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="lua51, Version=0.0.0.0, Culture=neutral, PublicKeyToken=1e1fb15b02227b8a, processorArchitecture=x86">
+    <Reference Include="lua51_x64, Version=0.0.0.0, Culture=neutral, PublicKeyToken=1e1fb15b02227b8a, processorArchitecture=x64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>lua\lua51.dll</HintPath>
+      <HintPath>lua\lua51_x64.dll</HintPath>
     </Reference>
-    <Reference Include="LuaInterface, Version=2.0.0.16708, Culture=neutral, processorArchitecture=x86">
+    <Reference Include="NLua, Version=0.1, Culture=neutral, processorArchitecture=x64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>lua\LuaInterface.dll</HintPath>
+      <HintPath>lua\NLua.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
