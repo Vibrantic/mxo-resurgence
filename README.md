@@ -110,7 +110,8 @@
 Partically working features:
   •	Signposts
   •	Hyperjump (works but crappy and not really high enough)
-  •	Multi Player support (it "should" work but wasnt tested enough so you should see each other and hopefully you can chat)
+  •	Multi Player support (it "should" work but wasnt tested enough so you should see each other and
+    hopefully you can chat)
   •	Mission System (still at the beginning)
   •	Ability loadout change (still buggy if you unload/load more than one ability)
   •	Ability Vendor at Mara C just for tests (but you can buy items)
@@ -119,25 +120,31 @@ Partically working features:
   •	Teleporting through hardlines (this should work nearly perfect)
   •	Opening Doors (for this you need an extra file with the static objects -
     so currently not working here and also not finished properly)
-  •	Mobs are working partically (they get spawned and auto-move a little bit but still some calculations are wrong -
+  •	Mobs are working partically (they get spawned and auto-move a little bit but still some
+    calculations are wrong -
     you cannot fight them and they are not attacking you) EDIT: you can partically fight them
     (attack them with Hacker Attacks for example but its still very buggy)
-  •	Vendors are implemented (but selling items doesnt work and buy items doesnt decrease amount of money :))
-    Also i parsed all possible vendors from logs but many vendors missing which need be filled later.
-    For Fun and that you didnt see a vendor window the first vendor from the CSV is the "default vendor".
+  •	Vendors are implemented (but selling items doesnt work and buy items doesnt decrease amount
+    of money :))
+    Also i parsed all possible vendors from logs but many vendors missing which need be
+    filled later.
+    For Fun and that you didnt see a vendor window the first vendor from the CSV is the
+    "default vendor".
   •	WIP: Crew and Factions Functionality (you can create crews and join factions / create factions
     but some parts are missing like updating all "online" playerviews)
 
 Server Features:
-  •	Entity and View System: Every View has an internal entityId so that we can just spawn view on static
-    and dynamic obbjects.
-  •	Network System: we have now message Queues for RPC and Object related Messages. And it will be resend until ack.
-  •	Encryption Library Changed (but not finally - we still use engimaLib): to move to .NET Framework 4.0 and
-    to compile for 64 Bit i created an encryption interface. So we use a C# Library and a C# implementation.
-    The Reason for this is that EngimaLib had to be recompiled for 64 Bit (as it is a C++ Library) but i am not sure
-    if the base libs are able to compile 64 Bit.
-  	As i dont know if this works well and how good the performance is i created a Encryption Interface and moved
-    the Engima Implemenation there. So if it doesnt work we could easily change back.
+  •	Entity and View System: Every View has an internal entityId so that we can just spawn view
+    on static and dynamic obbjects.
+  •	Network System: we have now message Queues for RPC and Object related Messages. And it will
+    be resend until ack.
+  •	Encryption Library Changed (but not finally - we still use engimaLib): to move to
+    .NET Framework 4.0 and to compile for 64 Bit i created an encryption interface. So we use
+    a C# Library and a C# implementation. The Reason for this is that EngimaLib had to be recompiled
+    for 64 Bit (as it is a C++ Library) but i am not sure if the base libs are able to compile 64 Bit.
+  	As i dont know if this works well and how good the performance is i created a Encryption
+    Interface and moved the Engima Implemenation there. So if it doesnt work we could easily
+    change back.
 
 Chat commands: There are some ingame commands we added that you can use in HardlineDreams.
   •	?org Change the players aligment / organisation (possible values are 0 - 3)
@@ -146,8 +153,8 @@ Chat commands: There are some ingame commands we added that you can use in Hardl
   •	Example: for machine: ?rep machine 120
   •	Example: for mero: ?rep mero 120
   •	?spawngameobject Spawns a GameObject of Type GoId in your current position and rotation.
-    This can only work if this type of Go has values for Position and rotation (all other possible attributes are not set).
-    This works with reflections.
+    This can only work if this type of Go has values for Position and rotation (all other
+    possible attributes are not set). This works with reflections.
   •	?gotopos X Y Z
   •	?rsi : you can change rsi parts but be careful with it
   •	?spawndatanode : This spawn a datanode
